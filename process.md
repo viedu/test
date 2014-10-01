@@ -9,15 +9,16 @@ An idealized process would look something like this:
 3. Manager and programmer review the request and break it out into cards
 4. When work is to begin programmers are assigned and discuss the issue to come up with an approach on both the backend and frontend.
 5. Programmers create individual branches and develop their change set.
-6. Push branch and open a pull request.  Pull request should contain
+6. Push branch and open a pull request.  Pull request should contain:
     * A summary of what is being done
     * A reference to any related cards
     * Any deployment notes (such as MySQL commands that'll need to be ran)
-7. Another programmer, one familiar with the issue is preferred, does a code review.
+7. Add link to pull request to the related card(s) along with a @mension for the programmer who will do the code review.
+8. Another programmer, one familiar with the issue is preferred, does a code review.
     * Revisions are made to the pull request until the programmers are satisfied with the change set.
-8. Once code review is completed the change set is deployed to a test environment for programmer QA.
-9. Once programmer QA is completed the requester is notified to perform user acceptance testing (UAT)
-10. Once UAT is completed the pull request is merged and deployed.
+9. Once code review is completed the change set is deployed to a test environment for programmer QA.
+10. Once programmer QA is completed the requester is notified to perform user acceptance testing (UAT)
+11. Once UAT is completed the pull request is merged and deployed.
 
 # What to look for in a code review
 When doing a code review look for the following:
