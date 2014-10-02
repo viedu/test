@@ -12,6 +12,7 @@ Test repo for playing with and learning how to use GitHub
 3. Read [this page on generating and adding your SSH key to GitHub](https://help.github.com/articles/generating-ssh-keys)
 4. Clone this repository: git clone git://github.com/viedu/test.git
 5. Create branches, make some changes, create pull requests, comment on PRs, merge PRs, etc etc etc.  Get to know the interface and flow.
+6. Delete Pull Requests after they've been merged, assuming the project is done.
 
 # Commit statuses
 
