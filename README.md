@@ -10,7 +10,7 @@ Test repo for playing with and learning how to use GitHub
   * If you already have a GitHub account you can reuse it.  Just add your VIE email address and set it to receive notifications from this organization.
 2. Let @mikemill or @bholladay know your user name via VIE email or chat.  We'll then invite you to the organization.  You'll have to accept the invite before being added to the organization.
 3. Read [this page on generating and adding your SSH key to GitHub](https://help.github.com/articles/generating-ssh-keys)
-4. Clone this repository: git clone https://github.com/viedu/test.git
+4. Clone this repository: `git clone git@github.com:viedu/test.git`
 5. Create branches, make some changes, create pull requests, comment on PRs, merge PRs, etc etc etc.  Get to know the interface and flow.
 
 # Commit statuses
