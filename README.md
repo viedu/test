@@ -11,6 +11,7 @@ Test repo for playing with and learning how to use GitHub
 2. Let @mikemill or @bholladay know your user name via VIE email or chat.  We'll then invite you to the organization.  You'll have to accept the invite before being added to the organization.
 3. Read [this page on generating and adding your SSH key to GitHub](https://help.github.com/articles/generating-ssh-keys)
 4. Clone this repository: `git clone git@github.com:viedu/test.git`
+  * *Note:* If you are using the OSX client you may need to use the https version of the repo: `https://github.com/viedu/test.git`
 5. Create branches, make some changes, create pull requests, comment on PRs, merge PRs, etc etc etc.  Get to know the interface and flow.
 
 # Commit statuses
