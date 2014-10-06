@@ -16,6 +16,7 @@ An idealized process would look something like this:
 7. Add link to pull request to the related card(s).
 8. Another programmer, one familiar with the issue is preferred, does a code review.
     * Revisions are made to the pull request until the programmers are satisfied with the change set.
+    * After revisions are made and it needs to be reviewed again make sure to leave a comment to let reviewers know that there are changes.
 9. Once code review is completed the change set is deployed to a test environment for programmer QA.
 10. Once programmer QA is completed the requester is notified to perform user acceptance testing (UAT)
 11. Once UAT is completed the pull request is merged and deployed.
