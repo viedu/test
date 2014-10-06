@@ -13,7 +13,7 @@ An idealized process would look something like this:
     * A summary of what is being done
     * A reference to any related cards
     * Any deployment notes (such as MySQL commands that'll need to be ran)
-7. Add link to pull request to the related card(s) along with a @mention for the programmer who will do the code review.
+7. Add link to pull request to the related card(s).
 8. Another programmer, one familiar with the issue is preferred, does a code review.
     * Revisions are made to the pull request until the programmers are satisfied with the change set.
 9. Once code review is completed the change set is deployed to a test environment for programmer QA.
