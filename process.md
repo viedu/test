@@ -20,6 +20,7 @@ An idealized process would look something like this:
 9. Once code review is completed the change set is deployed to a test environment for programmer QA.
 10. Once programmer QA is completed the requester is notified to perform user acceptance testing (UAT)
 11. Once UAT is completed the pull request is merged and deployed.
+12. Delete the branches after they've been merged.
 
 # What to look for in a code review
 When doing a code review look for the following:
