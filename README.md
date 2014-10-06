@@ -22,4 +22,4 @@ GitHub has an API for modifying the status of commits.  I will be writing a dumb
 * ERROR
 * FAILURE
 
-Commits will be set to the corresponding state.  The bot will run every few minutes and look for new heads (latest commit) in the open PRs.  This starts to model the behavior we'd see with a system like Jenkins.
+Commits will be set to the corresponding state..  The bot will run every few minutes and look for new heads (latest commit) in the open PRs.  This starts to model the behavior we'd see with a system like Jenkins.
