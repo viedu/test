@@ -13,7 +13,7 @@ Test repo for playing with and learning how to use GitHub
 4. Clone this repository: `git clone git@github.com:viedu/test.git`
   * *Note:* If you are using the OSX client you may need to use the https version of the repo: `https://github.com/viedu/test.git`
 5. Create branches, make some changes, create pull requests, comment on PRs, merge PRs, etc etc etc.  Get to know the interface and flow.
-6. Haha I'm making a conflict.
+6. Delete the branches after they've been merged.
 
 # Commit statuses
 
