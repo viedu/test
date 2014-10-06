@@ -65,3 +65,5 @@ Code reviews work best with small change sets where you can easily keep the chan
 
 # Large projects (or change sets)
 For a large project you can make use of an integration branch to house the sum of the changes.  You then make smaller feature branches off of the integration branch and use PRs back to the integration branch.  Once all the features are completed then you can merge the integration branch into master.
+
+# Hmmm..
