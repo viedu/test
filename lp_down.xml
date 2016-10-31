@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">It appears Lanchpad is down. I repeat, it appears
-  Launchpad is down!</Say>
+    <Pause length="2"/>
+    <Say voice="alice" loop="0">It appears Lanchpad is down. I repeat, it appears
+    Launchpad is down!</Say>
 </Response>
